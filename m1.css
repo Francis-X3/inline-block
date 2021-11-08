@@ -1,0 +1,31 @@
+.line1 {
+  display: block;
+  width: 300px;
+  height: 300px;
+}
+
+.line2 {
+  display: inline;
+  width: 300px;
+  height: 300px;
+}
+
+.line3 {
+  display: inline;
+  width: 300px;
+  height: 300px;
+}
+
+.line4 {
+  display: block;
+  width: 300px;
+  height: 200px;
+  
+}
+
+}
+.line5 {
+  display: inline-block;
+  width: 500px;
+  height: 300px;
+}
